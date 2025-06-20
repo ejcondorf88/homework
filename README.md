@@ -1,4 +1,4 @@
-# MiAppReactNative
+# Siuu
 
 Aplicación móvil desarrollada con **Expo**, **React Native**, **TypeScript** y **NativeWind (Tailwind CSS)**. Esta app implementa una pantalla Home moderna y responsiva, siguiendo buenas prácticas de UI/UX y Mobile First.
 
@@ -27,7 +27,7 @@ Aplicación móvil desarrollada con **Expo**, **React Native**, **TypeScript** y
 1. **Clona el repositorio:**
    ```sh
    git clone <REPO_URL>
-   cd MiAppReactNAtive
+   cd Siuu
    ```
 2. **Instala las dependencias:**
    ```sh
@@ -57,7 +57,7 @@ Aplicación móvil desarrollada con **Expo**, **React Native**, **TypeScript** y
 
 ## 🗂️ Estructura del proyecto
 ```
-MiAppReactNAtive/
+Siuu/
 ├── App.tsx                # Componente principal (pantalla Home)
 ├── assets/                # Imágenes, íconos y recursos gráficos
 ├── babel.config.js        # Configuración de Babel (NativeWind)
